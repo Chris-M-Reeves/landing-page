@@ -1,1 +1,2 @@
 # landing-page
+The aim of this landing page is to create a stylish website using the following prompts that are provided in assignment two. This is a test to enhance my CSS and use Flexbox at an adequate level
